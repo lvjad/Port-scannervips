@@ -1,4 +1,3 @@
-code:
 import ipaddress
 import os
 import platform
@@ -146,3 +145,4 @@ def main() -> None:
 if __name__ == "__main__":
 
     main()
+
